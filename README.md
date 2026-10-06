@@ -11,10 +11,9 @@
 
 ---
 
-I'm a B.Tech Computer Science student passionate about software engineering, database management, and building clean solutions.
+I'm a B.Tech Computer Science student passionate about software engineering, database management.
 
 -  **Focus:** Python, C#, and SQL
--  **Current Goals:** Backend logic, database management, and cloud integrations
 
 ---
 
