@@ -13,8 +13,6 @@
 
 I'm a B.Tech Computer Science student passionate about software engineering, database management.
 
--  **Focus:** Python, C#, and SQL
-
 ---
 
 <h3 align="center">🤝 Connect w me</h3>
